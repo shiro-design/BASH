@@ -20,7 +20,6 @@ funcCheck'
 function Check()
 {
 	returnV="I'm Deepin"
-
 }
 
 returnV="I'm Ubuntu"
